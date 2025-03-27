@@ -1,6 +1,7 @@
 // Función saludo usando template strings
 function saludo(nombre, mensaje) {
     console.log(`${mensaje}, ${nombre}!`);
+    console.log("Hoy es jueves")
 }
 
 // Ejemplos de uso:
